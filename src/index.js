@@ -3,7 +3,7 @@ import {styleBody, addTitle} from './dom';
 import persons, {getPremiumUsers} from './data';
 
 styleBody();
-addTitle('Hey, Ninja welcomw to Webpack series');
+addTitle('Hey, Ninja ');
 
 console.log('index file');
 
