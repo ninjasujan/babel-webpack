@@ -5,3 +5,4 @@ var greet = function greet(name) {
 };
 
 greet("Shaun");
+var a = 5;

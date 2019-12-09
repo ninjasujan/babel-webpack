@@ -4,3 +4,5 @@ const greet = (name) => {
 }
 
 greet("Shaun");
+
+const a = 5;
