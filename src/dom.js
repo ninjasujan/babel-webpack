@@ -14,6 +14,7 @@ const addTitle = (text) => {
     body.appendChild(title);
 };
 
-styleBody();
-addTitle('hello world from Ninja');
+
+
+export{styleBody, addTitle};
 
