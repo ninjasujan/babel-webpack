@@ -6,6 +6,12 @@ const greet = () => {
 
 greet();
 
+const jsTutorial = () => {
+    console.log('Modern javascript');
+}
+
+jsTutorial();
+
 class Student {
     constructor() {
         this.name = "Sujan",
