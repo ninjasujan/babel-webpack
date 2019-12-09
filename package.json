@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ninjasujan/babel-webpack/issues"
   },
-  "homepage": "https://github.com/ninjasujan/babel-webpack#readme"
+  "homepage": "https://github.com/ninjasujan/babel-webpack#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6"
+  }
 }
